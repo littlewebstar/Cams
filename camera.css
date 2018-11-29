@@ -1,0 +1,21 @@
+.main {
+    background-color: aquamarine;
+    margin: 20px;
+    border: 2px solid red;
+    height: 800px;
+    text-align: center;
+    align:justify;
+    vertical-align: middle;
+}
+
+.camera1, .camera2, .camera3, .camera4{
+    margin: 10px;
+    padding: 10px;
+   height: 200px;
+   width: 200px;
+    border: 2px solid red;
+    float: left;
+    position: relative;
+         margin: auto;
+
+}
